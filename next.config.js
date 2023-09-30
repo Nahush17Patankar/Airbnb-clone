@@ -4,4 +4,7 @@ module.exports = {
     
   
   },
+  env: {
+    mapbox_key: 'pk.eyJ1IjoibmFodXNoMTEiLCJhIjoiY2xtZDR5OGluMGU1ODNtbnpvZjlicW8zOSJ9.tvqTZVZLY3kW7RXT2CumkA'
+  }
 };
